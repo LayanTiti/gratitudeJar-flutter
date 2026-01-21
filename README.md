@@ -1,7 +1,7 @@
 # Gratitude App 
 A mobile application developed as part of the Mobile Development course, designed to help users build positive habits by practicing daily gratitude.
 
-## eatures
+## Features
 - User authentication (Login / Sign Up)
 - Add, edit, delete, and view daily gratitude notes
 - Dashboard with user activity overview
