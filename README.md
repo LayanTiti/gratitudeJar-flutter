@@ -26,3 +26,7 @@ Firebase configuration files are excluded from this repository for security reas
 
 ## Author
 Developed by **Layan Titi**
+
+## 📄 Project Documentation
+- [Project Report (PDF)](GratitudeJar_Project_Report.pdf)
+
